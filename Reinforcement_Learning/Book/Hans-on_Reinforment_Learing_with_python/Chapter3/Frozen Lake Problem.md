@@ -13,3 +13,8 @@ Ice Lake Problem
 | F | H | F | H |
 | F | F | F | H |
 | H | F | F | G |
+
+
+MDP 요소는 다음과 같다.
+* State : 호수의 16개 위치의 상태(S,G,F,H)
+* Action : 위, 아래, 왼쪽, 오른쪽
