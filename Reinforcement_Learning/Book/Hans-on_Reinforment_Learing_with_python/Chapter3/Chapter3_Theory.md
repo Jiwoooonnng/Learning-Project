@@ -14,4 +14,5 @@ Chapter 3. MDP and DP
 A. Value and Return
 >  * Value(r) : 수행한 행동의 보상
 >  * Return(R) : 환경으로 받느 미래 보상의 총합
->    \\[R_{t} = r_{t+1} + r_{t+2} + ... + r_{T}\\]
+
+>   \\(R{t} = r{t+1} + r{t+2} + ... + r{T}\\)
